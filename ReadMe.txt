@@ -10,12 +10,12 @@ Open command window and change to yakstore directory.
 
 XmlParse is a batch file to run the application in standard java mode for story1.You can change the passing arguments in that file.
 
-3. From yakstor/target dir copy the yak-shop.war into any web container.
+3. From yakstore/target dir copy the yak-shop.war into any web container.
    I tested yak-shop.war with the apache-tomcat-7.0.50, by putting the yak-shop.war in the webapps dir of tomcat. Run tomcat.
    
 4. You can test story2 using the browser and its address bar.
 
-5. For Post method testing, I used chrome extension Postman.
+5. For Story3, Post method testing, I used chrome extension Postman.
 
 
 Further efforts could be made to automate the system like using maven in buit tomcat plugin or gradle so that the person running this
