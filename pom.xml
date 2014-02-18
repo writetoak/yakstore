@@ -177,6 +177,7 @@
 	</repositories>
 	
     <build>
+    	<finalName>yak-shop</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-eclipse-plugin</artifactId>
