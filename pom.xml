@@ -11,7 +11,7 @@
 		<java-version>1.6</java-version>
 		<org.springframework-version>4.0.1.RELEASE</org.springframework-version>
 		<org.aspectj-version>1.9.5</org.aspectj-version>
-		<org.slf4j-version>1.6.6</org.slf4j-version>
+		<org.slf4j-version>1.7.30</org.slf4j-version>
 		<org.codehaus.jackson.version>1.9.13</org.codehaus.jackson.version>
 	</properties>
 	
